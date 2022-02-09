@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FTE1", "FTE1.csproj", "{8E2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arrays", "..\arrays\arrays.csproj", "{DBC06A5C-4FCC-4F0D-9AF1-0E28235AE3D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForWhileHybrid", "..\ForWhileHybrid\ForWhileHybrid.csproj", "{D91704D5-F20A-4831-92BC-F6DEC18C8ABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForWhileHybrid", "..\ForWhileHybrid\ForWhileHybrid.csproj", "{D91704D5-F20A-4831-92BC-F6DEC18C8ABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zinseszins", "..\zinseszins\zinseszins.csproj", "{074C7D36-4D2F-4C7E-9CE2-73EE637D611B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zinseszins", "..\zinseszins\zinseszins.csproj", "{074C7D36-4D2F-4C7E-9CE2-73EE637D611B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm-Star-Square", "..\Algorithm-Star-Square\Algorithm-Star-Square.csproj", "{637F081E-10B4-44CF-BAF6-1498D504BD41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm-Star-Square", "..\Algorithm-Star-Square\Algorithm-Star-Square.csproj", "{637F081E-10B4-44CF-BAF6-1498D504BD41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_delete_input", "..\Array_delete_input\Array_delete_input.csproj", "{5ABCD6AE-7807-4637-B191-B88AE686C5CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_delete_input", "..\Array_delete_input\Array_delete_input.csproj", "{5ABCD6AE-7807-4637-B191-B88AE686C5CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klassenarbeit2-A3", "..\Klassenarbeit2-A3\Klassenarbeit2-A3.csproj", "{92B0C52C-EDAB-4F2D-A044-B7BD0CC75E2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5ABCD6AE-7807-4637-B191-B88AE686C5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ABCD6AE-7807-4637-B191-B88AE686C5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ABCD6AE-7807-4637-B191-B88AE686C5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B0C52C-EDAB-4F2D-A044-B7BD0CC75E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B0C52C-EDAB-4F2D-A044-B7BD0CC75E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B0C52C-EDAB-4F2D-A044-B7BD0CC75E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B0C52C-EDAB-4F2D-A044-B7BD0CC75E2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
