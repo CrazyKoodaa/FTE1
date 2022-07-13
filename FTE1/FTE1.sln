@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benzinverbrauch", "..\Benzi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zinsberechnung mit Methoden", "..\Zinsberechnung mit Methoden\Zinsberechnung mit Methoden.csproj", "{D442CE5A-2A9E-46C4-80A1-4C625B522ABE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Widerstand mit Methoden berechnen", "..\Widerstand mit Methoden berechnen\Widerstand mit Methoden berechnen.csproj", "{22AC11E3-78DF-40E9-B055-3F41907BBF59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Widerstand mit Methoden berechnen", "..\Widerstand mit Methoden berechnen\Widerstand mit Methoden berechnen.csproj", "{22AC11E3-78DF-40E9-B055-3F41907BBF59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mittelwert Puls von 3 Phasen", "..\Mittelwert Puls von 3 Phasen\Mittelwert Puls von 3 Phasen.csproj", "{E639D390-F505-4BE9-9A8A-39B3B9657261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mittelwert Puls von 3 Phasen", "..\Mittelwert Puls von 3 Phasen\Mittelwert Puls von 3 Phasen.csproj", "{E639D390-F505-4BE9-9A8A-39B3B9657261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwort_Name_Datum", "..\Passwort_Name_Datum\Passwort_Name_Datum.csproj", "{D080FAF9-5368-4009-8CC1-7EA0F41B1442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom", "..\Palindrom\Palindrom.csproj", "{B787A868-C5AF-4440-A27B-838668A27182}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -191,6 +195,22 @@ Global
 		{E639D390-F505-4BE9-9A8A-39B3B9657261}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E639D390-F505-4BE9-9A8A-39B3B9657261}.Release|x86.ActiveCfg = Release|Any CPU
 		{E639D390-F505-4BE9-9A8A-39B3B9657261}.Release|x86.Build.0 = Release|Any CPU
+		{D080FAF9-5368-4009-8CC1-7EA0F41B1442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D080FAF9-5368-4009-8CC1-7EA0F41B1442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D080FAF9-5368-4009-8CC1-7EA0F41B1442}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D080FAF9-5368-4009-8CC1-7EA0F41B1442}.Debug|x86.Build.0 = Debug|Any CPU
+		{D080FAF9-5368-4009-8CC1-7EA0F41B1442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D080FAF9-5368-4009-8CC1-7EA0F41B1442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D080FAF9-5368-4009-8CC1-7EA0F41B1442}.Release|x86.ActiveCfg = Release|Any CPU
+		{D080FAF9-5368-4009-8CC1-7EA0F41B1442}.Release|x86.Build.0 = Release|Any CPU
+		{B787A868-C5AF-4440-A27B-838668A27182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B787A868-C5AF-4440-A27B-838668A27182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B787A868-C5AF-4440-A27B-838668A27182}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B787A868-C5AF-4440-A27B-838668A27182}.Debug|x86.Build.0 = Debug|Any CPU
+		{B787A868-C5AF-4440-A27B-838668A27182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B787A868-C5AF-4440-A27B-838668A27182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B787A868-C5AF-4440-A27B-838668A27182}.Release|x86.ActiveCfg = Release|Any CPU
+		{B787A868-C5AF-4440-A27B-838668A27182}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
