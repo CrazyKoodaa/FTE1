@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mittelwert Puls von 3 Phase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwort_Name_Datum", "..\Passwort_Name_Datum\Passwort_Name_Datum.csproj", "{D080FAF9-5368-4009-8CC1-7EA0F41B1442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom", "..\Palindrom\Palindrom.csproj", "{B787A868-C5AF-4440-A27B-838668A27182}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrom", "..\Palindrom\Palindrom.csproj", "{B787A868-C5AF-4440-A27B-838668A27182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gondel", "..\Gondel\Gondel.csproj", "{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -211,6 +213,14 @@ Global
 		{B787A868-C5AF-4440-A27B-838668A27182}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B787A868-C5AF-4440-A27B-838668A27182}.Release|x86.ActiveCfg = Release|Any CPU
 		{B787A868-C5AF-4440-A27B-838668A27182}.Release|x86.Build.0 = Release|Any CPU
+		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Debug|x86.Build.0 = Debug|Any CPU
+		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Release|x86.ActiveCfg = Release|Any CPU
+		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
