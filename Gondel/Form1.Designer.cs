@@ -32,6 +32,7 @@
             this.zaehler = new System.Windows.Forms.TextBox();
             this.weg = new System.Windows.Forms.Button();
             this.counter = new System.Windows.Forms.Label();
+            this.exit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // dazu
@@ -75,11 +76,23 @@
             this.counter.TabIndex = 3;
             this.counter.Text = "Gäste:";
             // 
+            // exit
+            // 
+            this.exit.Location = new System.Drawing.Point(300, 202);
+            this.exit.Name = "exit";
+            this.exit.Size = new System.Drawing.Size(75, 23);
+            this.exit.TabIndex = 4;
+            this.exit.Text = "exit";
+            this.exit.UseVisualStyleBackColor = true;
+            this.exit.Visible = false;
+            this.exit.Click += new System.EventHandler(this.exit_Click);
+            // 
             // Gondelzähler
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(670, 407);
+            this.Controls.Add(this.exit);
             this.Controls.Add(this.counter);
             this.Controls.Add(this.weg);
             this.Controls.Add(this.zaehler);
@@ -98,6 +111,7 @@
         private System.Windows.Forms.TextBox zaehler;
         private System.Windows.Forms.Button weg;
         private System.Windows.Forms.Label counter;
+        private System.Windows.Forms.Button exit;
     }
 }
 
