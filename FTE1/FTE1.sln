@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrom", "..\Palindrom\P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gondel", "..\Gondel\Gondel.csproj", "{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date-experience", "..\Date-experience\Date-experience.csproj", "{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,6 +223,14 @@ Global
 		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Release|Any CPU.Build.0 = Release|Any CPU
 		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Release|x86.ActiveCfg = Release|Any CPU
 		{42FE3B47-17D8-44B5-860E-4D2BDA7F6C30}.Release|x86.Build.0 = Release|Any CPU
+		{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}.Debug|x86.Build.0 = Debug|Any CPU
+		{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}.Release|x86.ActiveCfg = Release|Any CPU
+		{40B2F7B1-8F5E-4D1B-881A-7D125DAFEB07}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
